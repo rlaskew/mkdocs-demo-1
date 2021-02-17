@@ -1,8 +1,8 @@
 site_name: Cloud Price Changes
 nav:
     - Home: index.md
-    - AWS: index.md
-    - Azure: index.md
-    - GCP: index.md
-    - About: index.md
+    - AWS: aws.md
+    - Azure: azure.md
+    - GCP: gcp.md
+    - About: about.md
     

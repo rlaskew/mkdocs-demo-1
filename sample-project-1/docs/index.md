@@ -1,19 +1,16 @@
-# Welcome to MkDocs
+# Welcome to Cloud Price Changes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Our Mission
 
-## Commands
+Provide a simple, free, and easy to use website where readers can see recent price changes from CSPs. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Current Features and Limitations
 
-## Project layout
+**Disclaimer:** Please be sure to [click here](currentfeatures.md) to learn about what price changes we attempt to track and what we don't.  You can find **current** CSP pricing data on their respective web sites. This site only attempts track price changes for major CSPs over time. We do not attempt to produce authoritative information. If you need official information, please contact your CSP.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-        
-## [Duck Duck Go](https://duckduckgo.com)
+## Why you're here: Cloud Price Changes Information
+
+* AWS: [Start Here For AWS](aws.md)
+* Azure: [Start Here For Azure](azure.md)
+* GCP: [Start Here For GCP](gcp.md)
+
